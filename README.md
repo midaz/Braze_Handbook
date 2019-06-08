@@ -1,14 +1,11 @@
 # The 2019 Braze Handbook 
 This is a handbook on how to utilize marketing automation software within a Growth team.
 
-###Author: Dev Iyer
+### Author: Dev Iyer
 
-##Table of Contents
-
- 
-TABLE OF CONTENTS:
+## Table of Contents
 1. Growth teams in 2019
- 1. Do you need a Growth team? 
+			1. Do you need a Growth team? 
 What does a Growth team do?
 Growth, Product, and Marketing
 Growth team structures
