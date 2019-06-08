@@ -22,8 +22,8 @@ This is a handbook on how to utilize marketing automation software within a Grow
 	5. Enabling Analytics
 	6. Preventing disaster recovery from the start
 5. Winning in each channel
-	1. The ugly truth no multi-channel strategies
-	2. General best practices
+	1. Multi-channel: the ugly truth no one wants to tell you
+	2. Genearl best practices
 	3. Email
 	4. Push Notifications
 	5. In-Apps
