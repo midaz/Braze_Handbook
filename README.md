@@ -10,51 +10,34 @@ This is a handbook on how to utilize marketing automation software within a Grow
 2. Growth, Product, and Marketing
 	1. Growth team structures
 	2. How Braze fits into Growth
-When do you need Braze?
-What’s the value of Braze? 
-How do I operationalize Braze? 
-The Modern Growth Marketer
-Hiring
-Enabling
-Integrating Braze into your stack
-Technical resources needed
-From the start
-Recurring
-What do you give Braze? 
-Events
-Attributes
-Push tokens
-Notification preferences
-Distributed Systems: the best and the worst
-Platform SDKs and APIs
-Enabling Analytics
-Preventing disaster recovery from the start
-Winning in each channel
-The ugly truth no multi-channel strategies
-Email
-Configs that matter
-Analytics to baseline
-Messaging Best Practices
-Push Notifications
-Configs that matter
-Analytics to baseline
-Messaging Best Practices
-In-Apps
-Configs that matter
-Analytics to baseline
-Messaging Best Practices
-Experiments & Data
-Pow
-Daily, Weekly, and Monthly dashboards
-Advanced Features at Scale:
-Node that data: Connected content 
-Flex that data: reverse-engineering webhooks
-A secret weapon: Interactive HTML5 In-Apps
-Guest Posts
-Pinterest: Jeff Chang
-Linkedin: Damien Coullard
-Phiture: Andy Carvell
-Lyft: INSERT
-SoundCloud: Miguel Senguiz
+3. When do you need Braze?
+	1. What’s the value of Braze? 
+	2. How do I operationalize Braze? 
+	3. The Modern Growth Marketer
+4. Integrating Braze into your stack
+	1. Technical resources needed
+	2. What do you give Braze? 
+	3. Distributed Systems: the best and the worst
+	4. Platform SDKs and APIs
+	5. Enabling Analytics
+	6. Preventing disaster recovery from the start
+5. Winning in each channel
+	1. The ugly truth no multi-channel strategies
+	2. General best practices
+	3. Email
+	4. Push Notifications
+	5. In-Apps
+6. Experiments & Data
+	1. Daily, Weekly, and Monthly dashboards
+	2. Advanced Features at Scale:
+	3. Node that data: Connected content 
+	4. Flex that data: reverse-engineering webhooks
+	5. A secret weapon: Interactive HTML5 In-Apps
+7. Guest Posts
+	1. Pinterest: INSERT
+	2. Linkedin: INSERT
+	3. Phiture: INSERT
+	4. Lyft: INSERT
+	5. SoundCloud: INSERT
 
 
