@@ -5,11 +5,11 @@ This is a handbook on how to utilize marketing automation software within a Grow
 
 ## Table of Contents
 1. Growth teams in 2019
-			1. Do you need a Growth team? 
-What does a Growth team do?
-Growth, Product, and Marketing
-Growth team structures
-How Braze fits into Growth
+	1. Do you need a Growth team? 
+	2. What does a Growth team do?
+2. Growth, Product, and Marketing
+	1. Growth team structures
+	2. How Braze fits into Growth
 When do you need Braze?
 What’s the value of Braze? 
 How do I operationalize Braze? 
