@@ -3,7 +3,7 @@
 #### Author: Dev Iyer
 
 ## Introduction 
-Hello! My name is Dev (yes, that's my full name 😉). I entered the field of Product Growth in 2017 and had no idea what I was doing. 2.3 years and a ton of mistakes later, I've learned many useful things during my time working at SoundCloud. I'm open-sourcing this knowledge in an effort to spread it in this relatively new field. 
+Hello! My name is Dev (yes, that's my full name 😉). I entered the field of Product Growth in 2017 to work on growing user acquisition and retention at SoundCloud.... and had no idea what I was doing. 2.3 years and a ton of mistakes later, I've learned many useful things during my time. I'm open-sourcing this knowledge in an effort to spread it in this relatively new field. 
 
 I'd love to hear from you! If you have any comments, feedbacks, or questions, you can email me at diyer92@gmail.com or find me on [Linkedin](https://www.linkedin.com/in/devpiyer/).
 
