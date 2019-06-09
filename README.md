@@ -26,23 +26,23 @@ I'd love to hear from you! If you have any comments, feedbacks, or questions, yo
 	5. Enabling Analytics
 	6. Preventing disaster recovery from the start
 5. Winning in each channel
-	1. Multi-channel: the ugly truth no one wants to tell you
-	2. General best practices
-	3. Email
+	1. Building multi-step user journeys
+	2. General best practices for channels
+	3. Emails
 	4. Push Notifications
 	5. In-Apps
 6. Experiments & Data
-	1. Daily, Weekly, and Monthly dashboards
-	2. Advanced Features at Scale:
+	1. My Daily, Weekly, and Monthly dashboard
+	2. Don't be blind: Multivariate testing
+	3. Controlling control groups
+7. Advanced Features at Scale:
 	3. Node that data: Connected content 
 	4. Flex that data: reverse-engineering webhooks
 	5. A secret weapon: Interactive HTML5 In-Apps
 	6. GOD mode: native product testing using Braze
-7. Guest Posts
+8. Guest Posts
 	1. Pinterest: INSERT
 	2. Linkedin: INSERT
 	3. Phiture: INSERT
 	4. Lyft: INSERT
 	5. SoundCloud: INSERT
-
-
