@@ -1,6 +1,6 @@
-# The 2019 Braze Handbook 
-#### Author: Dev Iyer
+# The 2019 Braze Handbook
 ##### This is a handbook on how to utilize marketing automation software within a Growth team.
+#### Author: Dev Iyer
 
 ## Introduction 
 Hello! My name is Dev (yes, that's my full name 😉). I entered the field of Product Growth in 2017 and had no idea what I was doing. 2.3 years and a ton of mistakes later, I've learned many useful things during my time working at SoundCloud. I'm open-sourcing this knowledge in an effort to spread it in this relatively new field. 
