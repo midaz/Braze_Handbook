@@ -11,12 +11,10 @@ I'd love to hear from you! If you have any comments, feedbacks, or questions, yo
 1. Growth teams in 2019
 	1. Do you need a Growth team? 
 	2. What does a Growth team do?
-2. Growth, Product, and Marketing
-	1. Growth team structures
-	2. How Braze fits into Growth
+	3. Growth team structures
 3. When do you need Braze?
-	1. What’s the value of Braze? 
-	2. How do I operationalize Braze? 
+	1. How Braze fits into Growth
+	2. Operationalizing Braze? 
 	3. The Modern Growth Marketer
 4. Integrating Braze into your stack
 	1. Technical resources needed
