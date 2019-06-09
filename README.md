@@ -2,7 +2,7 @@
 #### Author: Dev Iyer
 ##### This is a handbook on how to utilize marketing automation software within a Growth team.
 
-##Introduction 
+## Introduction 
 Hello! My name is Dev (yes, that's my full name 😉). I entered the field of Product Growth in 2017 and had no idea what I was doing. 2.3 years and a ton of mistakes later, I've learned many useful things during my time working at SoundCloud. I'm open-sourcing this knowledge in an effort to spread it in this relatively new field. If you have any comments, feedbacks, or questions, you can [email](diyer92@gmail.com) me or find me on [Linkedin](https://www.linkedin.com/in/devpiyer/).
 
 ## Table of Contents
