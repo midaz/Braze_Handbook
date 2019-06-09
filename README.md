@@ -38,7 +38,7 @@ I'd love to hear from you! If you have any comments, feedbacks, or questions, yo
 	2. Flex that data: reverse-engineering webhooks
 	3. A secret weapon: Interactive HTML5 In-Apps
 	4. GOD MODE: native product testing using Braze
-	5. Notification systems at scale
+	5. Advanced Filters using Machine Learning
 8. Guest Posts
 	1. Pinterest: INSERT
 	2. Linkedin: INSERT
