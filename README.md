@@ -36,10 +36,10 @@ I'd love to hear from you! If you have any comments, feedbacks, or questions, yo
 	2. Don't be blind: Multivariate testing
 	3. Controlling control groups
 7. Advanced Features at Scale:
-	3. Node that data: Connected content 
-	4. Flex that data: reverse-engineering webhooks
-	5. A secret weapon: Interactive HTML5 In-Apps
-	6. GOD mode: native product testing using Braze
+	1. Node that data: Connected content 
+	2. Flex that data: reverse-engineering webhooks
+	3. A secret weapon: Interactive HTML5 In-Apps
+	4. GOD mode: native product testing using Braze
 8. Guest Posts
 	1. Pinterest: INSERT
 	2. Linkedin: INSERT
